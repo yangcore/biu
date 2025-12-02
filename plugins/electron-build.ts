@@ -84,7 +84,7 @@ export async function buildElectron() {
       },
       publish: {
         provider: "github",
-        owner: "wood3n",
+        owner: "yangcore",
         repo: "biu",
         releaseType: "release",
       },
